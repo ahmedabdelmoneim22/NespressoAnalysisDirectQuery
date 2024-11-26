@@ -1,0 +1,2 @@
+# NespressoAnalysisDirectQuery
+NespressoAnalysisDirectQuery
